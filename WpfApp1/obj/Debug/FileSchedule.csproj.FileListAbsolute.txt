@@ -1,0 +1,16 @@
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\FileSchedule.csprojAssemblyReference.cache
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\Views\MainWindow.baml
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\FileSchedule.csproj.GenerateResource.cache
+C:\Users\Toxic Knight\source\repos\WpfApp1\WpfApp1\obj\Debug\FileSchedule.csproj.CoreCompileInputs.cache
